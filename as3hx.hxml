@@ -1,0 +1,5 @@
+-cp ./src/
+-lib haxe-concurrent:git:https://github.com/vegardit/haxe-concurrent.git#master
+-main Run
+-D threads
+-neko run.n

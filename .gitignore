@@ -1,0 +1,8 @@
+bin/
+build/
+report/
+test/issues/generated/
+*.hxproj
+out/
+.idea/
+test-out/
